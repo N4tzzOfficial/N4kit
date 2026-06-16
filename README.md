@@ -2,80 +2,159 @@
 
 <div align="center">
 
-## The Open Source Developer Toolkit
+# 🚀 N4Kit
 
-Useful tools and utilities designed to simplify everyday development workflows.
+### The Open Source Developer Toolkit
 
-Built by N4tzzOfficial under N4tzzNetwork.
+A modern collection of developer tools, utilities, and productivity features designed to simplify everyday workflows.
 
-🌐 Live Demo: https://n4kit.n4tzzofficial.my.id
+**Built by N4tzzOfficial under N4tzzNetwork**
+
+🌐 **Live Demo:** https://n4kit.n4tzzofficial.my.id/
+
+[Report Bug](../../issues) • [Request Feature](../../issues) • [Roadmap](./ROADMAP.md)
 
 </div>
 
 ---
 
-## Overview
+## 📖 About
 
-N4Kit is a collection of useful developer tools built to reduce the need for multiple websites during development.
+N4Kit is a web-based developer toolkit that brings commonly used tools into a single platform.
 
-The goal is simple:
+Instead of opening multiple websites for JSON formatting, JWT decoding, UUID generation, API testing, and other daily tasks, N4Kit provides everything in one place.
 
-> One place for the tools developers use every day.
+Built with a focus on speed, simplicity, and productivity.
 
 ---
 
-## Current Features
+## ✨ Features
 
-* JSON Formatter
+### Developer Utilities
+
+* JSON Formatter & Validator
 * JWT Decoder
 * UUID Generator
 * Password Generator
 * QR Code Generator
+* Base64 Encoder / Decoder
+* URL Encoder / Decoder
+* Hash Generator
+* Timestamp Converter
+* Regex Tester
 
-More tools are planned and will be added in future releases.
+### Network & Infrastructure
+
+* DNS Lookup
+* IP Lookup
+* HTTP Status Explorer
+* API Tester
+
+### Productivity
+
+* Developer Snippets
+* Global Search System
+
+### Future Development
+
+* AI Explain
+* AI Refactor
+* AI Documentation Generator
+* AI Code Review
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 ### Homepage
 
-![Homepage](./screenshots/homepage.png)
+![N4Kit Homepage](./screenshots/home.png)
 
-### JSON Formatter
+### Developer Tools
 
-![JSON Formatter](./screenshots/json-formatter.png)
+![Developer Tools](./screenshots/tools1.png)
 
-### JWT Decoder
+### More Tools & Features
 
-![JWT Decoder](./screenshots/jwt-decoder.png)
-
----
-
-## Roadmap
-
-See ROADMAP.md
+![More Tools](./screenshots/tools2.png)
 
 ---
 
-## Status
+## 🎯 Project Goals
 
-🚧 Active Development
+N4Kit is designed to:
 
-N4Kit is continuously improving with new tools and features.
+* Reduce the need for multiple developer websites
+* Improve daily development workflows
+* Provide fast and accessible tools
+* Support developers with useful resources
+* Remain open source and community-friendly
 
 ---
 
-## Author
+## 🌍 Live Demo
 
-N4tzzOfficial
+Try N4Kit online:
+
+https://n4kit.n4tzzofficial.my.id/
+
+---
+
+## 🚦 Status
+
+**Public Release**
+
+N4Kit is actively maintained and continuously improved with new tools, features, and developer-focused enhancements.
+
+---
+
+## 🛣 Roadmap
+
+See:
+
+ROADMAP.md
+
+---
+
+## 👨‍💻 Author
+
+### N4tzzOfficial
 
 Founder & CEO of N4tzzNetwork
 
-Building developer tools, automation systems, AI solutions, and digital infrastructure.
+Building intelligent systems, automation platforms, developer tools, and scalable digital infrastructure.
+
+Projects:
+
+* N4Kit
+* N4lyx
+* N4tzzAI
+* Nexa AI
 
 ---
 
-## License
+## 🤝 Contributing
 
-MIT License
+N4Kit is currently maintained solely by N4tzzOfficial.
+
+For more information:
+
+CONTRIBUTING.md
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+See LICENSE for details.
+
+---
+
+<div align="center">
+
+### Built with ❤️ by N4tzzOfficial
+
+N4Kit — The Open Source Developer Toolkit
+
+</div>
