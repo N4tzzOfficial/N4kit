@@ -12,6 +12,7 @@ N4Kit is a collection of useful tools, utilities, snippets, and resources design
 - Password Generator
 - QR Generator
 - Developer Snippets
+- etc...
 
 ## Status
 
