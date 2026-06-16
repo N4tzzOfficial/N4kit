@@ -68,15 +68,15 @@ Built with a focus on speed, simplicity, and productivity.
 
 ### Homepage
 
-![N4Kit Homepage](./screenshots/home.png)
+![N4Kit Homepage](https://github.com/N4tzzOfficial/N4kit/blob/main/screenshot/home.png)
 
 ### Developer Tools
 
-![Developer Tools](./screenshots/tools1.png)
+![Developer Tools](https://github.com/N4tzzOfficial/N4kit/blob/main/screenshot/tools1.png)
 
 ### More Tools & Features
 
-![More Tools](./screenshots/tools2.png)
+![More Tools](https://github.com/N4tzzOfficial/N4kit/blob/main/screenshot/tools2.png)
 
 ---
 
