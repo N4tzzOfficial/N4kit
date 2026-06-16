@@ -1,0 +1,305 @@
+{
+  "tools": [
+    {
+      "id": "json-formatter",
+      "icon": "📋",
+      "title": "JSON Formatter",
+      "description": "Format, validate, and beautify JSON with syntax highlighting. Parse complex nested objects instantly.",
+      "category": "formatter",
+      "url": "/tools/json-formatter/",
+      "tags": ["json", "format", "beautify", "validate"],
+      "color": "#FF9A8B",
+      "popular": true,
+      "version": "1.0"
+    },
+    {
+      "id": "jwt-decoder",
+      "icon": "🔐",
+      "title": "JWT Decoder",
+      "description": "Decode and inspect JWT tokens. View header, payload, expiration time, and claims instantly.",
+      "category": "security",
+      "url": "/tools/jwt-decoder/",
+      "tags": ["jwt", "decode", "token", "auth"],
+      "color": "#8B5C7A",
+      "popular": true,
+      "version": "1.0"
+    },
+    {
+      "id": "uuid-generator",
+      "icon": "🔢",
+      "title": "UUID Generator",
+      "description": "Generate random UUID v4 or time-based UUID v7. Bulk generation with one-click copy.",
+      "category": "generator",
+      "url": "/tools/uuid-generator/",
+      "tags": ["uuid", "generator", "id", "random"],
+      "color": "#FF9A8B",
+      "popular": true,
+      "version": "1.0"
+    },
+    {
+      "id": "base64",
+      "icon": "📝",
+      "title": "Base64 Encoder/Decoder",
+      "description": "Encode text to Base64 or decode Base64 strings. Supports Unicode and binary data.",
+      "category": "encoder",
+      "url": "/tools/base64/",
+      "tags": ["base64", "encode", "decode", "binary"],
+      "color": "#8B5C7A",
+      "popular": true,
+      "version": "1.0"
+    },
+    {
+      "id": "hash-generator",
+      "icon": "#️⃣",
+      "title": "Hash Generator",
+      "description": "Generate MD5, SHA1, SHA256, SHA512 hashes. Compare and verify hash integrity.",
+      "category": "security",
+      "url": "/tools/hash-generator/",
+      "tags": ["hash", "md5", "sha", "crypto"],
+      "color": "#FF9A8B",
+      "popular": true,
+      "version": "1.0"
+    },
+    {
+      "id": "password-generator",
+      "icon": "🔑",
+      "title": "Password Generator",
+      "description": "Generate strong random passwords with customizable length, symbols, numbers, and case.",
+      "category": "generator",
+      "url": "/tools/password-generator/",
+      "tags": ["password", "security", "generator", "random"],
+      "color": "#8B5C7A",
+      "popular": true,
+      "version": "1.0"
+    },
+    {
+      "id": "timestamp-converter",
+      "icon": "⏰",
+      "title": "Timestamp Converter",
+      "description": "Convert Unix timestamps to human-readable dates and vice versa. Supports multiple formats.",
+      "category": "converter",
+      "url": "/tools/timestamp-converter/",
+      "tags": ["timestamp", "unix", "date", "time"],
+      "color": "#FF9A8B",
+      "popular": false,
+      "version": "1.0"
+    },
+    {
+      "id": "url-encoder",
+      "icon": "🔗",
+      "title": "URL Encoder/Decoder",
+      "description": "Encode and decode URLs for safe transmission. Handle special characters and query params.",
+      "category": "encoder",
+      "url": "/tools/url-encoder/",
+      "tags": ["url", "encode", "decode", "web"],
+      "color": "#8B5C7A",
+      "popular": false,
+      "version": "1.0"
+    },
+    {
+      "id": "qr-generator",
+      "icon": "📱",
+      "title": "QR Code Generator",
+      "description": "Generate QR codes from text, URLs, emails, or WiFi credentials. Download as PNG.",
+      "category": "generator",
+      "url": "/tools/qr-generator/",
+      "tags": ["qr", "code", "generator", "barcode"],
+      "color": "#FF9A8B",
+      "popular": true,
+      "version": "1.0"
+    },
+    {
+      "id": "color-converter",
+      "icon": "🎨",
+      "title": "Color Converter",
+      "description": "Convert colors between HEX, RGB, HSL, and CMYK formats. Preview colors in real-time.",
+      "category": "converter",
+      "url": "/tools/color-converter/",
+      "tags": ["color", "hex", "rgb", "hsl"],
+      "color": "#8B5C7A",
+      "popular": false,
+      "version": "1.0"
+    },
+    {
+      "id": "markdown-previewer",
+      "icon": "📄",
+      "title": "Markdown Previewer",
+      "description": "Write and preview Markdown in real-time. Perfect for README files and documentation.",
+      "category": "formatter",
+      "url": "/tools/markdown-previewer/",
+      "tags": ["markdown", "preview", "docs", "readme"],
+      "color": "#FF9A8B",
+      "popular": false,
+      "version": "1.0"
+    },
+    {
+      "id": "regex-tester",
+      "icon": "🔍",
+      "title": "Regex Tester",
+      "description": "Test regular expressions in real-time with match highlighting, groups, and replace.",
+      "category": "tester",
+      "url": "/tools/regex-tester/",
+      "tags": ["regex", "test", "pattern", "match"],
+      "color": "#8B5C7A",
+      "popular": true,
+      "version": "1.0"
+    },
+    {
+      "id": "diff-checker",
+      "icon": "🔄",
+      "title": "Diff Checker",
+      "description": "Compare two texts and find differences. Syntax highlighting with side-by-side view.",
+      "category": "tester",
+      "url": "/tools/diff-checker/",
+      "tags": ["diff", "compare", "text", "difference"],
+      "color": "#FF9A8B",
+      "popular": false,
+      "version": "1.0"
+    },
+    {
+      "id": "html-encoder",
+      "icon": "🏷️",
+      "title": "HTML Entity Encoder",
+      "description": "Encode and decode HTML entities. Escape special characters for safe HTML rendering.",
+      "category": "encoder",
+      "url": "/tools/html-encoder/",
+      "tags": ["html", "entity", "encode", "escape"],
+      "color": "#8B5C7A",
+      "popular": false,
+      "version": "1.0"
+    },
+    {
+      "id": "cron-parser",
+      "icon": "🕐",
+      "title": "Cron Expression Parser",
+      "description": "Parse and explain cron expressions. See next execution times in human language.",
+      "category": "parser",
+      "url": "/tools/cron-parser/",
+      "tags": ["cron", "schedule", "parser", "job"],
+      "color": "#FF9A8B",
+      "popular": false,
+      "version": "1.0"
+    },
+    {
+      "id": "ip-lookup",
+      "icon": "🌍",
+      "title": "IP Lookup",
+      "description": "Lookup IP address information. Find location, ISP, ASN, and network details.",
+      "category": "network",
+      "url": "/tools/ip-lookup/",
+      "tags": ["ip", "lookup", "network", "geo"],
+      "color": "#8B5C7A",
+      "popular": false,
+      "version": "1.0"
+    },
+    {
+      "id": "http-status",
+      "icon": "📡",
+      "title": "HTTP Status Reference",
+      "description": "Browse all HTTP status codes with descriptions. Search by code number or category.",
+      "category": "reference",
+      "url": "/tools/http-status/",
+      "tags": ["http", "status", "reference", "codes"],
+      "color": "#FF9A8B",
+      "popular": false,
+      "version": "1.0"
+    },
+    {
+      "id": "lorem-ipsum",
+      "icon": "📝",
+      "title": "Lorem Ipsum Generator",
+      "description": "Generate placeholder text for your designs. Customize paragraphs, words, or bytes.",
+      "category": "generator",
+      "url": "/tools/lorem-ipsum/",
+      "tags": ["lorem", "ipsum", "text", "placeholder"],
+      "color": "#8B5C7A",
+      "popular": false,
+      "version": "1.0"
+    }
+  ],
+  "categories": [
+    { "id": "all", "name": "All Tools", "icon": "🛠️" },
+    { "id": "formatter", "name": "Formatters", "icon": "📋" },
+    { "id": "encoder", "name": "Encoders", "icon": "📝" },
+    { "id": "generator", "name": "Generators", "icon": "🎲" },
+    { "id": "security", "name": "Security", "icon": "🔒" },
+    { "id": "converter", "name": "Converters", "icon": "🔄" },
+    { "id": "tester", "name": "Testers", "icon": "🔍" },
+    { "id": "network", "name": "Network", "icon": "🌐" },
+    { "id": "reference", "name": "References", "icon": "📚" }
+  ],
+  "snippets": [
+    {
+      "id": 1,
+      "lang": "n4lyx",
+      "title": "Connect WhatsApp",
+      "description": "Initialize N4lyx client with WhatsApp Web connection",
+      "code": "const { N4lyx } = require('n4lyx');\nconst client = new N4lyx();\nawait client.connect();",
+      "uses": "2.4k",
+      "url": "/snippets/whatsapp-connect"
+    },
+    {
+      "id": 2,
+      "lang": "express",
+      "title": "JWT Auth Middleware",
+      "description": "Authentication middleware for Express.js with JWT verification",
+      "code": "const jwt = require('jsonwebtoken');\napp.use((req, res, next) => {\n  const token = req.headers['authorization'];\n  if (!token) return res.status(401).send('Access denied');\n  try {\n    const verified = jwt.verify(token, process.env.JWT_SECRET);\n    req.user = verified;\n    next();\n  } catch (err) {\n    res.status(400).send('Invalid token');\n  }\n});",
+      "uses": "3.1k",
+      "url": "/snippets/jwt-middleware"
+    },
+    {
+      "id": 3,
+      "lang": "node",
+      "title": "Rate Limiter",
+      "description": "Simple API rate limiter with express-rate-limit",
+      "code": "const rateLimit = require('express-rate-limit');\nconst limiter = rateLimit({\n  windowMs: 15 * 60 * 1000,\n  max: 100,\n  message: 'Too many requests'\n});\napp.use('/api/', limiter);",
+      "uses": "5.2k",
+      "url": "/snippets/rate-limiter"
+    },
+    {
+      "id": 4,
+      "lang": "mongodb",
+      "title": "MongoDB Connection",
+      "description": "Connect to MongoDB with best practices and error handling",
+      "code": "const mongoose = require('mongoose');\nmongoose.connect(process.env.MONGODB_URI, {\n  useNewUrlParser: true,\n  useUnifiedTopology: true\n})\n.then(() => console.log('MongoDB connected'))\n.catch(err => console.error('MongoDB error:', err));",
+      "uses": "2.7k",
+      "url": "/snippets/mongodb-connect"
+    },
+    {
+      "id": 5,
+      "lang": "discord",
+      "title": "Discord Bot Base",
+      "description": "Quick start Discord.js bot template with commands handler",
+      "code": "const { Client, GatewayIntentBits } = require('discord.js');\nconst client = new Client({ intents: [GatewayIntentBits.Guilds] });\nclient.on('ready', () => console.log(`Logged in as ${client.user.tag}`));\nclient.on('interactionCreate', async interaction => {\n  if (!interaction.isChatInputCommand()) return;\n  if (interaction.commandName === 'ping') {\n    await interaction.reply('Pong!');\n  }\n});\nclient.login(process.env.DISCORD_TOKEN);",
+      "uses": "1.8k",
+      "url": "/snippets/discord-bot"
+    },
+    {
+      "id": 6,
+      "lang": "react",
+      "title": "Custom Hook: useFetch",
+      "description": "Fetch data with React custom hook and loading states",
+      "code": "import { useState, useEffect } from 'react';\nexport function useFetch(url) {\n  const [data, setData] = useState(null);\n  const [loading, setLoading] = useState(true);\n  const [error, setError] = useState(null);\n  useEffect(() => {\n    fetch(url)\n      .then(res => res.json())\n      .then(data => { setData(data); setLoading(false); })\n      .catch(err => { setError(err); setLoading(false); });\n  }, [url]);\n  return { data, loading, error };\n}",
+      "uses": "6.1k",
+      "url": "/snippets/usefetch-hook"
+    },
+    {
+      "id": 7,
+      "lang": "python",
+      "title": "FastAPI CRUD",
+      "description": "FastAPI CRUD endpoints with Pydantic validation",
+      "code": "from fastapi import FastAPI\nfrom pydantic import BaseModel\napp = FastAPI()\nclass Item(BaseModel):\n    name: str\n    price: float\nitems = []\n@app.post('/items')\nasync def create(item: Item):\n    items.append(item)\n    return item",
+      "uses": "1.2k",
+      "url": "/snippets/fastapi-crud"
+    },
+    {
+      "id": 8,
+      "lang": "docker",
+      "title": "Docker Compose Node + Mongo",
+      "description": "Docker Compose setup for Node.js and MongoDB",
+      "code": "version: '3.8'\nservices:\n  app:\n    build: .\n    ports:\n      - '3000:3000'\n    environment:\n      - MONGODB_URI=mongodb://mongo:27017/app\n    depends_on:\n      - mongo\n  mongo:\n    image: mongo:7\n    volumes:\n      - mongo-data:/data/db\nvolumes:\n  mongo-data:",
+      "uses": "2.9k",
+      "url": "/snippets/docker-compose"
+    }
+  ]
+}
