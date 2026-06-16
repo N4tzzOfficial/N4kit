@@ -119,9 +119,6 @@ ROADMAP.md
 ## 👨‍💻 Author
 
 ### N4tzzOfficial
-
-Founder & CEO of N4tzzNetwork
-
 Building intelligent systems, automation platforms, developer tools, and scalable digital infrastructure.
 
 Projects:
@@ -136,10 +133,6 @@ Projects:
 ## 🤝 Contributing
 
 N4Kit is currently maintained solely by N4tzzOfficial.
-
-For more information:
-
-CONTRIBUTING.md
 
 ---
 
